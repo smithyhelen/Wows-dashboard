@@ -1,6 +1,4 @@
-const API_URL = window.location.origin.includes('localhost') 
-    ? 'http://localhost:5000/api'
-    : '/api';
+const API_URL = 'http://217.154.43.71:5001';
 
 let authToken = null;
 let currentUser = null;
