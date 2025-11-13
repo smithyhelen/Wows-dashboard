@@ -1,5 +1,4 @@
-const API_URL = 'http://217.154.43.71:8080/api';
-
+const API_URL = 'https://217.154.43.71:5007/api';
 let authToken = null;
 let currentUser = null;
 
